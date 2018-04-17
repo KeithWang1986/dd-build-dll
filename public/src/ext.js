@@ -6,10 +6,12 @@ Object.assign = require('object-assign');
  
 require('babel-polyfill');
 
-import './jquery/jquery-1.4.4.min.js';
+import './ext/jquery/jquery-1.4.4.min.js';
 
-import './ztree/jquery.ztree.core.min.js';
+import './ext/ztree/jquery.ztree.core.min.js';
 
-import './ztree/jquery.ztree.excheck.min.js';
+import './ext/ztree/jquery.ztree.excheck.min.js';
 
-import './ztree/zTreeStyle/zTreeStyle.css';
+import './ext/ztree/zTreeStyle/zTreeStyle.css';
+
+import './ext/dd/common.js';
