@@ -14,7 +14,6 @@
     "dd-common": "^1.0.9",
     "dd-locale": "^1.0.4",
     "draft-js": "^0.10.5",
-    "jquery": "^3.3.1",
     "object-assign": "^4.1.1",
     "prop-types": "^15.6.0",
     "react": "^16.2.0",
